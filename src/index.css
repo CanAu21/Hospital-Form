@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.menuLink {
+  text-decoration: none;
+  color: rgb(227, 224, 224);
+  transition: all 0.3s linear;
+}
+
+.menuLink:hover {
+  color: white;
+}
+
+

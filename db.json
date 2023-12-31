@@ -1,0 +1,48 @@
+{
+  "appointments": [
+    {
+      "id": "1",
+      "date": "17.09.2023",
+      "patientId": "1"
+    }
+  ],
+  "patients": [
+    {
+      "id": "1",
+      "name": "Furkan",
+      "surname": "Can",
+      "phone": "61401975901",
+      "operationId": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "id": "1704006185803",
+      "name": "Renas",
+      "surname": "Can",
+      "phone": "61401567801",
+      "operationId": []
+    }
+  ],
+  "operations": [
+    {
+      "id": "1",
+      "complain": "flu",
+      "treatment": "It is recommended to rest",
+      "medicines": [
+        "parol",
+        "aferin"
+      ]
+    },
+    {
+      "id": "2",
+      "complain": "backache",
+      "treatment": "standing",
+      "medicines": [
+        "voltaren",
+        "parol"
+      ]
+    }
+  ]
+}
